@@ -78,14 +78,6 @@ SQL queries across 8 categories:
 | Fertilizer & Pesticide | Top crops by input usage, inputs vs yield |
 | Advanced Analysis | Highest yielding crop per state, YoY growth, top crop per season |
 
-📂 Full SQL file → [crop_yield.sql](./crop_yield.sql)
-
----
-
-## 📊 Power BI Dashboard
-
-
-
 ---
 
 ## 🔑 Key Insights
@@ -102,3 +94,26 @@ SQL queries across 8 categories:
 | 8 | **2011 peak production year** — highest agricultural output recorded |
 
 ---
+
+## Files in this Repository
+| File | Description |
+|------|-------------|
+| crop_yield.sql | Main SQL analysis script |
+| crop_dataset.csv | Dataset used for analysis |
+| crop_yield_dashboard.jpg | Power BI dashboard screenshot |
+| dashboard.pbix | Power BI dashboard file |
+
+---
+
+## Visualizations
+
+### Dashboard Overview
+![Dashboard](crop_yield_dashboard.jpg)
+
+---
+
+## Author
+**Preethi M**  
+Aspiring Data Analyst  
+📧 preethiii.m1905@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/preethi-m-9864a3384/)
